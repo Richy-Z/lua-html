@@ -2,6 +2,7 @@
 
 - add proper support for boolean props, e.g. `disabled=true` instead of just `disabled`
 - define whatever this is, is this a framework or a templating engine?
+- fs.statSync(componentsDir): if folder then expect body.html, optional head.html, body.start.html, body.end.html idk. if file then treat as normal
 
 ## todo list transferred from `numelon-proprietary/website` repo
 
