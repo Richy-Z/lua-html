@@ -5,7 +5,7 @@ return {
     tags = { "html", "js", "css", "framework", "modular" },
     license = "MIT",
     author = { name = "Richard Ziupsnys", email = "64844585+Richy-Z@users.noreply.github.com" },
-    homepage = "https://github.com/numelon-oss/sklair-cli",
+    homepage = "https://github.com/numelon-proprietary/sklair-cli",
     dependencies = {
         "creationix/coro-fs",
         "creationix/coro-http",
